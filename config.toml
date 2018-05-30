@@ -1,0 +1,17 @@
+baseURL = "https://tnm0113.github.io/"
+languageCode = "en-us"
+title = "Keep Code Running"
+theme = "hyde-hyde"
+
+## Site Settings
+[params]
+    author = "toanguyen"
+    description = "life is simple, code is complicated"
+    # authorimage = "/img/hugo.png"
+    dateformat = "Jan 2, 2006"
+    highlightjs = true
+
+## Social Accounts
+[params.social]
+    github = "tnm0113"
+    email = "toannm3110@gmail.com"
